@@ -1,7 +1,7 @@
 """courseName""","""courseName_ar""","""courseId"""
 """Mathematical Algebra 2""","""جامعة السينكرز""",7
 """Advanced Biology""","""test 1""",9
-"""Introduction to Biology""",null,10
+"""Introduction to Biology""",“test 2”,10
 """Introduction to Calculus""",null,24
 """Advanced Calculus""",null,25
 """Mathematical Algebra""",null,47
